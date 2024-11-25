@@ -1,0 +1,5 @@
+*.log
+#all files .exe extension
+*.exe
+#vscode files- tasks.json
+.vscode/

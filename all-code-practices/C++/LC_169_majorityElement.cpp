@@ -21,7 +21,6 @@ void test1(){
     int result=majorityElement(nums);
     assert(result==expected_answer and "test2 failed");
     std::cout<<"test1 passed\n";
-    
 }
 int main(){
     test1();
